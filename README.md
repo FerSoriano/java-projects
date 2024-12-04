@@ -8,3 +8,4 @@
 1. Prueba Trainee pt. 2
 1. Tic-Tac-Toe
    - _Refactoring code is pending_
+1. Maquina de Snacks
